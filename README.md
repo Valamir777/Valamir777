@@ -14,6 +14,9 @@
     </header>
   </body>
   <body>
+    <header style="text-align: center;">
+      English(Native) Russian(Intermediate B1) German(Elementary A1) Mandarin(Elementary A1) <br>
+    </header>
     <center>
       <table class="center">
       <tr>
