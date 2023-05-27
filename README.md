@@ -7,7 +7,8 @@
     </header>
   </head>
   <body>
-    <center><table class="center">
+    <center>
+      <table class="center">
       <tr>
         <th>Front End</th>
         <th>Back End</th>
@@ -38,6 +39,7 @@
          <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" style="width:120px;height:120px;"></td>
          <td><!-- Placeholder--></td>
        </tr>
-      </table></center>
+      </table>
+    </center>
   </body>
 </html>
