@@ -6,6 +6,13 @@
       <h1 style="font-size:60px;" text-align: center><strong>Data Scientist, Security Analyst, Software/Web Developer</strong></h1>
     </header>
   </head>
+  <body name="aboutMe">
+    <header style="text-align: center;">
+      <sub>
+        Amatuer MMA Athlete, Polymath, Philospher <br>
+      </sub>
+    </header>
+  </body>
   <body>
     <center>
       <table class="center">
