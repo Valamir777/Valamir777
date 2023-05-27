@@ -6,7 +6,7 @@
       <h1 style="font-size:60px;" text-align: center><strong>Freelance Data Scientist, Security Analyst, Software/Web Developer</strong></h1>
     </header>
   </head>
-  <table>
+  <table class="center">
       <tr>
         <th>Front End</th>
         <th>Back End</th>
