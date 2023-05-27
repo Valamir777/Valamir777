@@ -22,15 +22,15 @@
        </tr>
        <tr>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" style="width:120px;height:120px;"></td>
-        <td>Placeholder</td>
+        <td><!-- Placeholder--></td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" style="width:120px;height:120px;"></td>
-        <td>Placeholder</td>
+        <td><!-- Placeholder--></td>
        </tr>
        <tr>
-         <td>Placeholder</td>
-         <td>Placeholder</td>
+         <td><!-- Placeholder--></td>
+         <td><!-- Placeholder--></td>
          <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" style="width:120px;height:120px;"></td>
-         <td>Placeholder</td>
+         <td><!-- Placeholder--></td>
        </tr>
    </table>
 </html>
