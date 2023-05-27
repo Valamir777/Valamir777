@@ -2,7 +2,6 @@
 <!-- Profile for github-->
 <html lang="en">
   <head>
-  <style></style>
     <header>
       <h1 style="font-size:60px;" text-align: center><strong>Freelance Data Scientist, Security Analyst, Software/Web Developer</strong></h1>
     </header>
