@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <!-- Profile for github-->
 <html lang="en">
+  <head>
+    <header>
+      Freelance Data Scientist, Security Analyst, Software/Web Developer
+    </header>
+  </head>
   <table>
       <tr>
         <th>Front End</th>
