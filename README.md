@@ -2,7 +2,6 @@
 <!-- Profile for github-->
 <html lang="en">
   <table>
-    <style> table {height: 120px; width: 120px;} </style>
       <tr>
         <th>Front End</th>
         <th>Back End</th>
