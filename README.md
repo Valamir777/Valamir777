@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <header>
-      <p style="font-size:300%;"><strong>Freelance Data Scientist, Security Analyst, Software/Web Developer</strong></p>
+      <h1 style="font-size:60px;"><strong>Freelance Data Scientist, Security Analyst, Software/Web Developer</strong></h1>
     </header>
   </head>
   <table>
