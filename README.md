@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-    <script defer src="https://pyscript.net/alpha/pyscript.js"> </script>
+      <script defer src="https://pyscript.net/alpha/pyscript.js"> </script>
     <header>
       <h1 style="font-size:60px;" text-align: center><strong>Data Scientist, Security Analyst, Software/Web Developer</strong></h1>
     </header>
