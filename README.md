@@ -5,8 +5,11 @@
     <header>
       <h1 style="font-size:60px;" text-align: center><strong>Freelance Data Scientist, Security Analyst, Software/Web Developer</strong></h1>
     </header>
+    <style>
+    </style>
   </head>
-  <table class="center">
+  <body>
+    <table class="center">
       <tr>
         <th>Front End</th>
         <th>Back End</th>
@@ -38,4 +41,5 @@
          <td><!-- Placeholder--></td>
        </tr>
    </table>
+  </body>
 </html>
