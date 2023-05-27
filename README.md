@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <header>
-      <strong>Freelance Data Scientist, Security Analyst, Software/Web Developer</strong>
+      <p><strong>Freelance Data Scientist, Security Analyst, Software/Web Developer</strong></p>
     </header>
   </head>
   <table>
