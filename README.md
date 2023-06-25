@@ -33,7 +33,7 @@
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ada_Mascot_with_slogan.svg" alt="ADA" title="ADA" style="width:120px;height:120px;"></td>
         </tr>
         <tr>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" stitle="JavaScript" tyle="width:120px;height:120px;"></td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" stitle="JavaScript" style="width:120px;height:120px;"></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" alt="Java" title="Java" style="width:120px;height:120px;"></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" title="SciPy" style="width:120px;height:120px;"></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" alt="SQL" title="SQL" style="width:120px;height:120px;"></td>
