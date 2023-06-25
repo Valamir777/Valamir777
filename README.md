@@ -60,8 +60,10 @@
             <td><!-- Placeholder--></td>
         </tr>
     </table>
+
+<img src="https://leetcode-stats-api.herokuapp.com/<Valamir777>" alt="[![Valamir777's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Valamir777&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)" title="My Leetcode" style="width:120px;height:120px;">
     
-    [![Valamir777's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Valamir777&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+    
     
 </body>
 </html>
