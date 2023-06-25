@@ -60,6 +60,8 @@
             <td><!-- Placeholder--></td>
         </tr>
     </table>
+    
     [![Valamir777's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Valamir777&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+    
 </body>
 </html>
