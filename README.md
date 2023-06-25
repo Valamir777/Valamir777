@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <p>Hello World!</p>
     <!--A table to quickly represent my stack-->
     <table>
         <caption style="color: rgba(7, 192, 7, 0.973); font-size:xx-large;"><strong>My Stack</strong></caption>
@@ -60,10 +61,6 @@
             <td><!-- Placeholder--></td>
         </tr>
     </table>
-
-<img src="https://leetcode-stats-api.herokuapp.com/<Valamir777>" alt="[![Valamir777's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Valamir777&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)" title="My Leetcode" style="width:120px;height:120px;">
-    
-    
     
 </body>
 </html>
