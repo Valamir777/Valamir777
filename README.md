@@ -47,7 +47,7 @@
             <td><!-- Placeholder--></td>
         </tr>
         <tr>
-            <td><!-- Placeholder--></td>
+            <td><img src="[https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg)" alt="CSS" title="CSS" style="width:120px;height:120px;"></td>
             <td><!-- Placeholder--></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" title="Pandas" style="width:120px;height:120px;"></td>
             <td><!-- Placeholder--></td>
