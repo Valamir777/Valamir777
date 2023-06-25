@@ -60,5 +60,6 @@
             <td><!-- Placeholder--></td>
         </tr>
     </table>
+    [![<USERNAME>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username<USERNAME>&theme=<THEME>)](https://github.com/JeremyTsaii/leetcode-stats)
 </body>
 </html>
