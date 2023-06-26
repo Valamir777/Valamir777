@@ -1,6 +1,6 @@
 Greetings!
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Valamir777)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Valamir777?theme=dark,unicorn)
 
 <html lang="en">
 <head>
