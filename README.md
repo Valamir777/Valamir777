@@ -1,6 +1,6 @@
 Greetings!
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Valamir777?font=Dancing_Script)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Valamir777?font=Righteous?theme=forest)
 
 <html lang="en">
 <head>
