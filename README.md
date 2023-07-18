@@ -8,6 +8,12 @@ Greetings!
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <header>
+        Taylor Benjamin Schaefer Jackson <br>
+        Junior Data & Software Engineer <br>
+        Mcgill University <br>
+        B.S. Physics & Computer Sciecne <br>
+    </header>
     <!--A table to quickly represent my stack-->
     <table>
         <caption style="color: rgba(7, 192, 7, 0.973); font-size:xx-large;"><strong>My Stack</strong></caption>
