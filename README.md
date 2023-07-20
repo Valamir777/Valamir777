@@ -1,7 +1,3 @@
-Greetings!
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Valamir777?theme=nord&font=Kaisei%20Opti&ext=heatmap)
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,10 +5,11 @@ Greetings!
 </head>
 <body>
     <header>
-        Taylor Benjamin Schaefer Jackson <br>
+        Taylor Schaefer <br>
         Junior Data & Software Engineer <br>
         Mcgill University <br>
-        B.S. Physics & Computer Sciecne <br>
+        B.S. Physics, Mathematics & Computer Sciecne <br>
+        August 2019 - June 2023
     </header>
     <!--A table to quickly represent my stack-->
     <table>
@@ -73,3 +70,4 @@ Greetings!
     
 </body>
 </html>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Valamir777?theme=nord&font=Kaisei%20Opti&ext=heatmap)
