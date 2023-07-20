@@ -42,7 +42,7 @@
             <td><img src="https://www.freedownloadlogo.com/logos/n/numpy.svg" alt="Numpy" title="Numpy" style="width:120px;height:120px;"></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" title="Git" style="width:120px;height:120px;"></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ada_Mascot_with_slogan.svg" alt="ADA" title="ADA" style="width:120px;height:120px;"></td>
-            <td><img src="[https://upload.wikimedia.org/wikipedia/commons/d/d6/Ada_Mascot_with_slogan.svg](https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg)" alt="ADA" title="LaTeX"     style="width:120px;height:120px;"></td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX"     style="width:120px;height:120px;"></td>
         </tr>
         <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" stitle="JavaScript" style="width:120px;height:120px;"></td>
