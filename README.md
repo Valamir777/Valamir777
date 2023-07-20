@@ -11,7 +11,7 @@
         Junior Data & Software Engineer <br>
         Mcgill University <br>
         B.S. Physics, Mathematics & Computer Sciecne <br>
-        August 2019 - June 2023
+        August 2019 - June 2023 <br>
     </header>
     <!--A table to quickly represent my stack-->
     <table>
