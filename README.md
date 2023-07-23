@@ -8,12 +8,11 @@
 <body>
     <header>
         Taylor Schaefer <br>
-        Junior Data & Software Engineer <br><br>
+        Junior Data & Software Engineer<br><br>
         Mcgill University <br>
         B.S. Physics, Mathematics & Computer Sciecne <br><br>
         University of Calgary <br>
         Masters of Quantumn Computing<br><br>
-        
     </header>
     <!--A table to quickly represent my stack-->
     <table>
