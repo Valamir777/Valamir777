@@ -12,7 +12,7 @@
         Mcgill University <br>
         B.S. Physics, Mathematics & Computer Sciecne <br><br>
         University of Calgary <br>
-        Masters of Quantumn Computing<br><br>
+        Master of Quantum Computing<br><br>
     </header>
     <!--A table to quickly represent my stack-->
     <table>
