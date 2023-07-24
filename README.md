@@ -31,13 +31,28 @@
                 Machine Learning
             </th>
             <th>
-                Server Side
+                Source Code Managment
             </th>
             <th>
                 Data Base
             </th>
             <th>
                 Development
+            </th>
+            <th>
+                Test
+            </th>
+            <th>
+                Infastracture
+            </th>
+            <th>
+                Monitoring
+            </th>
+            <th>
+                CI/CD
+            </th>
+            <th>
+                Ticketing Managment
             </th>
             <th>
                 Other
