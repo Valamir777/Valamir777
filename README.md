@@ -34,6 +34,9 @@
                 Server Side
             </th>
             <th>
+                Data Base
+            </th>
+            <th>
                 Development
             </th>
             <th>
@@ -46,6 +49,7 @@
             <td><img src="https://www.freedownloadlogo.com/logos/n/numpy.svg" alt="Numpy" title="Numpy" style="width:120px;height:120px;"></td>
             <td><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" title="Python" style="width:120px;height:120px;"></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" title="Git" style="width:120px;height:120px;"></td>
+            <td><img src="" alt="MongoDB" title="MongoDB" style="width:120px;height:120px;"></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ada_Mascot_with_slogan.svg" alt="ADA" title="ADA" style="width:120px;height:120px;"></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX"     style="width:120px;height:120px;"></td>
         </tr>
@@ -57,11 +61,13 @@
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" alt="SQL" title="SQL" style="width:120px;height:120px;"></td>
             <td><!-- Placeholder--></td>
             <td><!-- Placeholder--></td>
+            <td><!-- Placeholder--></td>
         </tr>
         <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" title="CSS" style="width:120px;height:120px;"></td>
             <td><!-- Placeholder--></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" title="Matplotlib" style="width:120px;height:120px;"></td>
+            <td><!-- Placeholder--></td>
             <td><!-- Placeholder--></td>
             <td><!-- Placeholder--></td>
             <td><!-- Placeholder--></td>
@@ -75,11 +81,13 @@
             <td><!-- Placeholder--></td>
             <td><!-- Placeholder--></td>
             <td><!-- Placeholder--></td>
+            <td><!-- Placeholder--></td>
         </tr>
         <tr>
             <td><!-- Placeholder--></td>
             <td><!-- Placeholder--></td>
             <td><img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2F4UIIH%2FbtqIH4tfonl%2FLyCOqYkmqKo1gFrogryni1%2Fimg.png" alt="Seaborn" title="Seaborn" style="width:120px;height:120px;"></td>
+            <td><!-- Placeholder--></td>
             <td><!-- Placeholder--></td>
             <td><!-- Placeholder--></td>
             <td><!-- Placeholder--></td>
