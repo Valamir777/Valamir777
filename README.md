@@ -88,7 +88,7 @@
 </div>
 <h4 align="left">OS</h4>
 <div align="center">
-	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Linux" title="Linux"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" alt="Linux" title="Linux"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" alt="Debian" title="Debian"/></code>
 </div>
 <h4 align="left">Other</h4>
