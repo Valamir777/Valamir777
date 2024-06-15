@@ -84,7 +84,7 @@
 </div>
 <h4 align="left">Other</h4>
 <div align="center">
-	<code><img width="50" src="" alt="" title=""/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/fr/e/ef/FL-Studio-12-Logo.png" alt="FLstudio" title="FLstudio"/></code>
 </div>
 
 
