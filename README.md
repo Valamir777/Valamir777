@@ -1,4 +1,3 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/Valamir777?theme=nord&font=Kaisei%20Opti&ext=heatmap)
 <h1 align="center">Salutations 🤖 They call me Taylor</h1>
 <h3 align="center">Ardent and well read polymath with diversified interests</h3>
 
@@ -20,6 +19,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front End Development</h4>
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+</div>
 <h4 align="left">Back End Development</h4>
 <h4 align="left">Mobile App Development</h4>
 <h4 align="left">AI/ML</h4>
@@ -42,4 +44,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valamir&show_icons=true&locale=en" alt="valamir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valamir&" alt="valamir" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Valamir777?theme=nord&font=Kaisei%20Opti&ext=heatmap)
 
