@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valamir&label=Profile%20views&color=0e75b6&style=flat" alt="valamir" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Valamir777&theme=kimbie_dark&column=-1" alt="valamir" /> </p>
-
-//[![trophy](https://github-profile-trophy.vercel.app/?username=Valamir777&theme=kimbie_dark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Valamir777&theme=kimbie_dark&column=-1" alt="valamir" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
