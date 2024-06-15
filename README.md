@@ -20,7 +20,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front End Development</h4>
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" title="C"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" title="C++"/></code>
 </div>
 <h4 align="left">Back End Development</h4>
 <h4 align="left">Mobile App Development</h4>
