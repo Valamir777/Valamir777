@@ -72,7 +72,10 @@
 <h4 align="left">Software</h4>
 <div align="center">
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/en/f/f2/Blender-Logo.png" alt="Blender" title="Blender"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" alt="Krita" title="Krita"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" title="matlab"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/FreeCAD-logo.svg" alt="FreeCad" title="FreeCad"/></code>
+	<code><img width="50" src="https://wiki.openrocket.info/images/a/a8/Icon-256.png" alt="OpenRocket" title="OpenRocket"/></code>
 </div>
 <h4 align="left">Static Site Generator</h4>
 <div align="center">
