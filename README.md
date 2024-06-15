@@ -23,7 +23,7 @@
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" title="C"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://en.wikipedia.org/wiki/Java_%28programming_language%29#/media/File:Java_programming_language_logo.svg" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ada_Mascot_with_slogan.svg" alt="Ada" title="Ada Core"/></code>
 </div>
 <h4 align="lef
