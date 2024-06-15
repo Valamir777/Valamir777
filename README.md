@@ -19,6 +19,22 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Front End Development</h4>
+<h4 align="left">Back End Development</h4>
+<h4 align="left">Mobile App Development</h4>
+<h4 align="left">AI/ML</h4>
+<h4 align="left">Database</h4>
+<h4 align="left">Data Visualization</h4>
+<h4 align="left">DevOps</h4>
+<h4 align="left">BaaS</h4>
+<h4 align="left">Framework</h4>
+<h4 align="left">Testing</h4>
+<h4 align="left">Software</h4>
+<h4 align="left">Static Site Generator</h4>
+<h4 align="left">Automation</h4>
+<h4 align="left">Game Engines</h4>
+<h4 align="left">OS</h4>
+<h4 align="left">Other</h4>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valamir&show_icons=true&locale=en&layout=compact" alt="valamir" /></p>
