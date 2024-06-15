@@ -17,5 +17,5 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/></code>
-	<code><img width="50" src="[https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ada_Mascot_with_slogan.svg/552px-Ada_Mascot_with_slogan.svg.png?20200217065258)" alt="IN STRONG TYPING WE TRUST" title="Ada Core"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ada_Mascot_with_slogan.svg/552px-Ada_Mascot_with_slogan.svg.png?20200217065258" alt="IN STRONG TYPING WE TRUST" title="Ada Core"/></code>
 </div>
