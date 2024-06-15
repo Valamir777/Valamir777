@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valamir&label=Profile%20views&color=0e75b6&style=flat" alt="valamir" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Valamir777&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+	[![trophy](https://github-profile-trophy.vercel.app/?username=Valamir777&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
