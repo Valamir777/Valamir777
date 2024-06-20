@@ -100,12 +100,12 @@
 <p align="left">
 <a href="https://twitter.com/twitter" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stackflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackflow" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20379017/t-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackflow" height="30" width="40" /></a>
 <a href="https://instagram.com/insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCl3YIPS_ANqhIG9BtIHZqMA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/tbsjackson333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Valamir777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://discord.gg/Discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
-<a href="https://www.leetcode.com/leetcode" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1" alt="leetcode" height="30" width="40" /></a>
+<a href="https://math.stackexchange.com/users/1339972/taylor-jackson" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1" alt="MATHSTACK" height="30" width="40" /></a>
 
