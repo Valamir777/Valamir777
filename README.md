@@ -88,11 +88,11 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valamir&show_icons=true&locale=en&layout=compact" alt="valamir" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valamir&show_icons=true&locale=en&layout=compact&theme=dracula" alt="valamir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valamir&show_icons=true&locale=en" alt="valamir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valamir&show_icons=true&locale=en&theme=dracula" alt="valamir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valamir&" alt="valamir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valamir&theme=dracula" alt="valamir" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Valamir777?theme=nord&font=Kaisei%20Opti&ext=heatmap)
 
