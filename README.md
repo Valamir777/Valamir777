@@ -87,9 +87,6 @@
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/fr/e/ef/FL-Studio-12-Logo.png" alt="FLstudio" title="FLstudio"/></code>
 </div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valamir&show_icons=true&locale=en&layout=compact&theme=dracula" alt="valamir" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valamir&show_icons=true&locale=en&theme=dracula" alt="valamir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valamir&theme=dracula" alt="valamir" /></p>
