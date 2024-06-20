@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valamir&label=Profile%20views&color=0e75b6&style=flat" alt="valamir" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Valamir777&theme=kimbie_dark&column=-1" alt="valamir" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Valamir777&theme=dracula&column=-1" alt="valamir" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming Languages</h4>
@@ -91,7 +91,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valamir&theme=dracula" alt="valamir" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Valamir777?theme=nord&font=Kaisei%20Opti&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Valamir777?theme=dracula&font=Kaisei%20Opti&ext=heatmap)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valamir777&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
