@@ -64,6 +64,7 @@
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" title="matlab"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/FreeCAD-logo.svg" alt="FreeCad" title="FreeCad"/></code>
 	<code><img width="50" src="https://wiki.openrocket.info/images/a/a8/Icon-256.png" alt="OpenRocket" title="OpenRocket"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="Juypter" title="Juypter"/></code>
 </div>
 <h4 align="left">Static Site Generator</h4>
 <div align="center">
