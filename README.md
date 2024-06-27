@@ -86,6 +86,8 @@
 <h4 align="left">Other</h4>
 <div align="center">
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/fr/e/ef/FL-Studio-12-Logo.png" alt="FLstudio" title="FLstudio"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Perplexity_AI_logo.svg" alt="Perplexity" title="Perplexity"/></code>
+	<code><img width="50" src="https://static.wikia.nocookie.net/logopedia/images/1/14/QuillBot_2017_%28Icon%29.png/revision/latest?cb=20221006131650" alt="Quillbot" title="Quillbot"/></code>
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valamir&show_icons=true&locale=en&theme=dracula" alt="valamir" /></p>
