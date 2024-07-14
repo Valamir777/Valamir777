@@ -1,5 +1,5 @@
-<h1 align="center">Salutations 🤖 They call me Taylor</h1>
-<h3 align="center">Ardent and well read polymath with diversified interests</h3>
+<h1 align="center">Salutations 🤖 They call me a name</h1>
+<h3 align="center">Professional non-Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valamir&label=Profile%20views&color=0e75b6&style=flat" alt="valamir" /> </p>
 
